@@ -1,0 +1,19 @@
+C:\Users\Iva\Desktop\visual studio\Matching game\Matching game\bin\Debug\Matching game.exe.config
+C:\Users\Iva\Desktop\visual studio\Matching game\Matching game\bin\Debug\Matching game.exe
+C:\Users\Iva\Desktop\visual studio\Matching game\Matching game\bin\Debug\Matching game.pdb
+C:\Users\Iva\Desktop\visual studio\Matching game\Matching game\obj\Debug\Matching game.csprojResolveAssemblyReference.cache
+C:\Users\Iva\Desktop\visual studio\Matching game\Matching game\obj\Debug\Matching_game.Form1.resources
+C:\Users\Iva\Desktop\visual studio\Matching game\Matching game\obj\Debug\Matching_game.Properties.Resources.resources
+C:\Users\Iva\Desktop\visual studio\Matching game\Matching game\obj\Debug\Matching game.csproj.GenerateResource.Cache
+C:\Users\Iva\Desktop\visual studio\Matching game\Matching game\obj\Debug\Matching game.exe
+C:\Users\Iva\Desktop\visual studio\Matching game\Matching game\obj\Debug\Matching game.pdb
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Matching game\Matching game\bin\Debug\Matching game.exe.config
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Matching game\Matching game\bin\Debug\Matching game.exe
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Matching game\Matching game\bin\Debug\Matching game.pdb
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Matching game\Matching game\obj\Debug\Matching game.csproj.AssemblyReference.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Matching game\Matching game\obj\Debug\Matching_game.Form1.resources
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Matching game\Matching game\obj\Debug\Matching_game.Properties.Resources.resources
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Matching game\Matching game\obj\Debug\Matching game.csproj.GenerateResource.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Matching game\Matching game\obj\Debug\Matching game.csproj.CoreCompileInputs.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Matching game\Matching game\obj\Debug\Matching game.exe
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Matching game\Matching game\obj\Debug\Matching game.pdb
